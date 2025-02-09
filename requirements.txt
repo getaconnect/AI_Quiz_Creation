@@ -1,9 +1,7 @@
 langchain_core
 langchain_google_genai
 google-api-python-client
-streamlit
 python-dotenv
-beautifulsoup4
 nltk
 scrapegraphai
 # Run this after installing scrapegraphai --> playwright install
