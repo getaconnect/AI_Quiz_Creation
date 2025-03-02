@@ -1,9 +1,0 @@
-langchain_core
-langchain_google_genai
-google-api-python-client
-python-dotenv
-nltk
-scrapegraphai
-# Run this after installing scrapegraphai --> playwright install
-crawl4ai
-# Run this after installing crawl4ai --> 1) crawl4ai-setup (post installation setup), 2) crawl4ai-doctor (for verification of installation)
