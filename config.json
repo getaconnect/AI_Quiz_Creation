@@ -1,0 +1,37 @@
+[
+    {
+        "website_url": "https://www.chitalebandhu.in/",
+        "extracted": false,
+        "quiz_created": false,
+        "intermediate_result": null,
+        "final_result": null
+    },
+    {
+        "website_url": "https://www.bajajauto.com/",
+        "extracted": false,
+        "quiz_created": false,
+        "intermediate_result": null,
+        "final_result": null
+    },
+    {
+        "website_url": "https://afmc.nic.in/",
+        "extracted": false,
+        "quiz_created": false,
+        "intermediate_result": null,
+        "final_result": null
+    },
+    {
+        "website_url": "http://www.vaishalihotel.in/",
+        "extracted": false,
+        "quiz_created": false,
+        "intermediate_result": null,
+        "final_result": null
+    },
+    {
+        "website_url": "https://www.malakaspice.com/",
+        "extracted": false,
+        "quiz_created": false,
+        "intermediate_result": null,
+        "final_result": null
+    }
+]

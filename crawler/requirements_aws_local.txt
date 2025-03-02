@@ -1,0 +1,5 @@
+boto3
+asyncio
+crawl4ai==0.4.248
+validators==0.34.0
+python-dotenv==1.0.1
